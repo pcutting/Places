@@ -26,7 +26,6 @@
 		8C04587113F69F98007FC848 /* VocabulousAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C04586F13F69F98007FC848 /* VocabulousAppDelegate.m */; };
 		8C04597E13F70252007FC848 /* PhotoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C04597D13F70252007FC848 /* PhotoTableViewController.m */; };
 		8C04598513F709D4007FC848 /* PhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C04598413F709D4007FC848 /* PhotoViewController.m */; };
-		8C045B8613F80978007FC848 /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8C045B8513F80978007FC848 /* test.jpg */; };
 		8C045C0013F826EA007FC848 /* RecentlyViewedPhotoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C045BFF13F826EA007FC848 /* RecentlyViewedPhotoController.m */; };
 		8C045C1213F8289B007FC848 /* RecentPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C045C1113F8289B007FC848 /* RecentPhoto.m */; };
 /* End PBXBuildFile section */
@@ -69,7 +68,6 @@
 		8C04597D13F70252007FC848 /* PhotoTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoTableViewController.m; sourceTree = "<group>"; };
 		8C04598313F709D4007FC848 /* PhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoViewController.h; sourceTree = "<group>"; };
 		8C04598413F709D4007FC848 /* PhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoViewController.m; sourceTree = "<group>"; wrapsLines = 1; };
-		8C045B8513F80978007FC848 /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
 		8C045BFE13F826EA007FC848 /* RecentlyViewedPhotoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecentlyViewedPhotoController.h; sourceTree = "<group>"; };
 		8C045BFF13F826EA007FC848 /* RecentlyViewedPhotoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecentlyViewedPhotoController.m; sourceTree = "<group>"; };
 		8C045C1013F8289B007FC848 /* RecentPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecentPhoto.h; sourceTree = "<group>"; };
@@ -148,7 +146,6 @@
 			isa = PBXGroup;
 			children = (
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
-				8C045B8513F80978007FC848 /* test.jpg */,
 				8D1107310486CEB800E47090 /* Places-Info.plist */,
 			);
 			name = Resources;
@@ -247,7 +244,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
-				8C045B8613F80978007FC848 /* test.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

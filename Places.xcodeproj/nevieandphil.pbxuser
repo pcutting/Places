@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* PlacesAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1339}}";
-			sepNavSelRange = "{607, 0}";
-			sepNavVisRange = "{217, 1635}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1274}}";
+			sepNavSelRange = "{575, 0}";
+			sepNavVisRange = "{217, 1707}";
 			sepNavWindowFrame = "{{38, 246}, {798, 706}}";
 		};
 	};
@@ -513,10 +513,10 @@
 	};
 	8C04597D13F70252007FC848 /* PhotoTableViewController.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{5994, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6045, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6095, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 7037}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {905, 3107}}";
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{6151, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6202, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6252, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 7194}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {905, 3354}}";
 			sepNavSelRange = "{484, 0}";
-			sepNavVisRange = "{48, 799}";
+			sepNavVisRange = "{48, 564}";
 			sepNavWindowFrame = "{{130, 88}, {611, 780}}";
 		};
 	};
@@ -530,9 +530,9 @@
 	};
 	8C04598413F709D4007FC848 /* PhotoViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {707, 1742}}";
-			sepNavSelRange = "{822, 0}";
-			sepNavVisRange = "{594, 1791}";
+			sepNavIntBoundsRect = "{{0, 0}, {981, 1729}}";
+			sepNavSelRange = "{2408, 0}";
+			sepNavVisRange = "{1701, 459}";
 			sepNavWindowFrame = "{{38, 70}, {766, 882}}";
 		};
 	};
@@ -685,6 +685,13 @@
 		modificationTime = 335116707.66221;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
+	};
+	8C045B8513F80978007FC848 /* test.jpg */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.jpeg;
+		name = test.jpg;
+		path = /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/test.jpg;
+		sourceTree = "<absolute>";
 	};
 	8C045B8B13F809E0007FC848 /* PBXBookmark */ = {
 		isa = PBXBookmark;
