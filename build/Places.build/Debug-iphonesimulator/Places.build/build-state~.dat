@@ -1,0 +1,955 @@
+TPlaces
+v7
+r0
+t335107546.003400
+cCheck dependencies
+cProcessInfoPlistFile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Info.plist Places-Info.plist
+cCompileXIB /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Places.app/test.jpg test.jpg
+cProcessPCH /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch.gch Places_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch.pth Places_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/WordListTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/DefinitionViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/VocabulousAppDelegate.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentlyViewedPhotoController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentPhoto.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m
+cLd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places normal i386
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m
+cAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m
+cGenerateDSYMFile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app.dSYM /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places
+cTouch /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrAPIKey.h
+c000000004E466383000000000000011E
+t1313235843
+s286
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.h
+c000000004CBF529B0000000000000678
+t1287606939
+s1656
+i<Foundation/Foundation.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m
+c000000004CBF52A000000000000011F3
+t1287606944
+s4595
+i"FlickrFetcher.h"
+i"FlickrAPIKey.h"
+i"JSON.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.h
+c000000004E46E1D600000000000001AF
+t1313268182
+s431
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m
+c000000004E4836DA0000000000001B38
+t1313355482
+s6968
+i"PhotoTableViewController.h"
+i"TopPlacesTableViewController.h"
+i"FlickrFetcher.h"
+i"PhotoViewController.h"
+i"RecentPhoto.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.h
+c000000004E483D070000000000000246
+t1313357063
+s582
+i<UIKit/UIKit.h>
+i"FlickrFetcher.h"
+i"RecentPhoto.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m
+c000000004E48BBDD0000000000000F08
+t1313389533
+s3848
+i"PhotoViewController.h"
+i"RecentPhoto.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.h
+c000000004E4684440000000000000189
+t1313244228
+s393
+i<UIKit/UIKit.h>
+i"FlickrFetcher.h"
+i"TopPlacesTableViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m
+c000000004E4918700000000000000CCD
+t1313413232
+s3277
+i"PlacesAppDelegate.h"
+i"TopPlacesTableViewController.h"
+i"RecentlyViewedPhotoController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.h
+c000000004E48DB9800000000000001A1
+t1313397656
+s417
+i<Foundation/Foundation.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m
+c000000004E49150B00000000000007A7
+t1313412363
+s1959
+i"RecentPhoto.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.h
+c000000004E47F88E0000000000000160
+t1313339534
+s352
+i<UIKit/UIKit.h>
+i"RecentPhoto.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m
+c000000004E49143A000000000000190B
+t1313412154
+s6411
+i"RecentlyViewedPhotoController.h"
+i"PhotoViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.h
+c000000004E46B640000000000000015E
+t1313257024
+s350
+i<UIKit/UIKit.h>
+i"FlickrFetcher.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m
+c000000004E48C60B0000000000001A5B
+t1313392139
+s6747
+i"TopPlacesTableViewController.h"
+i"PhotoTableViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.h
+c000000004CC112490000000000000145
+t1287721545
+s325
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m
+c000000004CC112600000000000000445
+t1287721568
+s1093
+i"DefinitionViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/JSON.h
+c000000004B74DB5500000000000008F9
+t1265949525
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.h
+c000000004B74DB550000000000000A01
+t1265949525
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m
+c000000004B74DB55000000000000089E
+t1265949525
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.h
+c000000004B74DB550000000000000916
+t1265949525
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m
+c000000004B74DB55000000000000087D
+t1265949525
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.h
+c000000004B74DB550000000000000AED
+t1265949525
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m
+c000000004B74DB550000000000001ABC
+t1265949525
+s6844
+i"SBJSON.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.h
+c000000004B74DB550000000000000B82
+t1265949525
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m
+c000000004B74DB550000000000000AC1
+t1265949525
+s2753
+i"SBJsonBase.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.h
+c000000004B74DB550000000000000C0B
+t1265949525
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m
+c000000004B74DB5500000000000036CF
+t1265949525
+s14031
+i"SBJsonParser.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.h
+c000000004B74DB550000000000001140
+t1265949525
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m
+c000000004B74DB550000000000001E83
+t1265949525
+s7811
+i"SBJsonWriter.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib
+c000000004E45AEB50000000000002103
+t1313189557
+s8451
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Places_Prefix.pch
+c000000004E45AEB500000000000000B5
+t1313189557
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.h
+c000000004CC114C90000000000000158
+t1287722185
+s344
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m
+c000000004CC1121B0000000000000374
+t1287721499
+s884
+i"VocabulousAppDelegate.h"
+i"WordListTableViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.h
+c000000004CC111FC0000000000000139
+t1287721468
+s313
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m
+c000000004CC114BE0000000000001112
+t1287722174
+s4370
+i"WordListTableViewController.h"
+i"DefinitionViewController.h"
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app
+t1313414746
+s238
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app.dSYM
+t1313414742
+s102
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Info.plist
+t1313414739
+s587
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/MainWindow.nib
+t1313414739
+s983
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/PkgInfo
+t1313414739
+s8
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places
+t1313414741
+s101536
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/test.jpg
+t1313414739
+s2331769
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/DefinitionViewController.o
+t1313414741
+s43572
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o
+t1313414741
+s18636
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o
+t1313414741
+s8348
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o
+t1313414741
+s8268
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoTableViewController.o
+t1313414741
+s49868
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoViewController.o
+t1313414741
+s51448
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/Places.LinkFileList
+c000000004E491E530000000000000A5A
+t1313414739
+s2650
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o
+t1313414741
+s55312
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentPhoto.o
+t1313414741
+s13024
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentlyViewedPhotoController.o
+t1313414741
+s48272
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o
+t1313414741
+s20132
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o
+t1313414741
+s13264
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o
+t1313414741
+s35956
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o
+t1313414741
+s24912
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o
+t1313414741
+s47696
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/VocabulousAppDelegate.o
+t1313414741
+s50440
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/WordListTableViewController.o
+t1313414741
+s52572
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o
+t1313414741
+s6364
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/DefinitionViewController.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/FlickrFetcher.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoTableViewController.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoViewController.plist
+t1313414742
+s5754
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacesAppDelegate.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/RecentPhoto.plist
+t1313414742
+s5736
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/RecentlyViewedPhotoController.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJSON.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t1313414745
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/TopPlacesTableViewController.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/VocabulousAppDelegate.plist
+t1313414742
+s5708
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/WordListTableViewController.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/main.plist
+t1313414742
+s276
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m
+c000000004E45AEB5000000000000016A
+t1313189557
+s362
+i<UIKit/UIKit.h>
+
+N/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/test.jpg
+c000000004DFDEF780000000000239479
+t1308487544
+s2331769
+
+N/var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch.pth
+t1313413163
+s2786980
+
+N/var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch.gch
+t1313414740
+s15453392
+
+NPlaces-Info.plist
+c000000004E45AEB5000000000000038D
+t1313189557
+s909
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m
+s335107542.033366
+e335107542.079880
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m
+lSLF07#2@93"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m335107542#335107542#0(0"0(0#0#85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m8604385088#2198"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/FlickrFetcher.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m
+s335107542.451496
+e335107542.491147
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m
+lSLF07#2@104"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m335107542#335107542#0(0"0(0#0#96"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m8604296704#2220"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoTableViewController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m
+s335107542.491230
+e335107542.530825
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m
+o/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m:74:29: warning: Potential leak of an object allocated on line 74 and stored into 'scrollView'
+o         UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame: applicationFrame];
+o                                    ^
+o1 warning generated.
+lSLF07#2@99"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335107542#335107542#0(337"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m:74:29: warning: Potential leak of an object allocated on line 74 and stored into 'scrollView'         UIScrollView *scrollView = [[UIScrollView alloc] initWithFrame: applicationFrame];                                    ^1 warning generated.1(0@77"Potential leak of an object allocated on line 74 and stored into 'scrollView'335107542#18446744073709551615#0#5(17@0"335107542#18446744073709551615#0#0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#0"0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#1(3@6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#64#2#64#2#6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#2#74#2#17@0"335107542#18446744073709551615#0#0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#0"0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#1(3@6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#2#74#2#6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#29#74#82#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)335107542#18446744073709551615#0#0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#29#0#0#0"1(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#29#74#82#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"335107542#18446744073709551615#0#0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#0"0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#0#0#0#0#1(3@6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#74#29#74#82#6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#93#1#93#1#21@142"Object allocated on line 74 and stored into 'scrollView' is no longer referenced after this point and has a retain count of +1 (object leaked)335107542#18446744073709551615#0#0(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#93#1#0#0#0"1(6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#93#1#93#1#142"Object allocated on line 74 and stored into 'scrollView' is no longer referenced after this point and has a retain count of +1 (object leaked)6@91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335082333#93#1#0#0#36"Memory (Core Foundation/Objective-C)0(23"Leak of returned object0#0#91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m8604057600#2210"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PhotoViewController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m
+s335107541.854580
+e335107542.033274
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m
+lSLF07#2@97"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m335107541#335107542#0(0"0(0#0#89"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m8603672992#2206"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/PlacesAppDelegate.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m
+s335107542.571009
+e335107542.614712
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m
+o/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m:53:39: warning: Potential leak of an object allocated on line 53 and stored into 'flickrAndDate'
+o         NSMutableDictionary *flickrAndDate = [[NSMutableDictionary alloc]init];
+o                                              ^
+o1 warning generated.
+lSLF07#2@91"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335107542#335107542#0(331"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m:53:39: warning: Potential leak of an object allocated on line 53 and stored into 'flickrAndDate'         NSMutableDictionary *flickrAndDate = [[NSMutableDictionary alloc]init];                                              ^1 warning generated.1(0@80"Potential leak of an object allocated on line 53 and stored into 'flickrAndDate'335107542#18446744073709551615#0#5(17@0"335107542#18446744073709551615#0#0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#0"0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#1(3@6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#49#2#49#2#6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#2#53#2#17@0"335107542#18446744073709551615#0#0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#0"0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#1(3@6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#2#53#2#6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#39#53#71#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)335107542#18446744073709551615#0#0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#39#0#0#0"1(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#39#53#71#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"335107542#18446744073709551615#0#0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#0"0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#0#0#0#0#1(3@6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#53#39#53#71#6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#58#2#58#2#21@145"Object allocated on line 53 and stored into 'flickrAndDate' is no longer referenced after this point and has a retain count of +1 (object leaked)335107542#18446744073709551615#0#0(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#58#2#0#0#0"1(6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#58#2#58#2#145"Object allocated on line 53 and stored into 'flickrAndDate' is no longer referenced after this point and has a retain count of +1 (object leaked)6@83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335105163#58#2#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m8603299136#2194"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/RecentPhoto.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m
+s335107542.530992
+e335107542.570921
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m
+lSLF07#2@109"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m335107542#335107542#0(0"0(0#0#101"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m8603723200#2230"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/RecentlyViewedPhotoController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m
+s335107542.270128
+e335107542.331737
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m
+lSLF07#2@108"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m335107542#335107542#0(0"0(0#0#100"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m8604292256#2228"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/TopPlacesTableViewController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m
+s335107542.372726
+e335107542.411723
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m
+lSLF07#2@96"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m335107542#335107542#0(0"0(0#0#88"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m8608049024#2212"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/DefinitionViewController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m
+s335107542.035029
+e335107542.071837
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m
+lSLF07#2@92"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m335107542#335107542#0(0"0(0#0#84"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m8604226304#2199"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m
+s335107542.071924
+e335107542.115163
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m
+lSLF07#2@92"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m335107542#335107542#0(0"0(0#0#84"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m8603959232#2199"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m
+s335107542.079963
+e335107542.125620
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m
+lSLF07#2@83"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m335107542#335107542#0(0"0(0#0#75"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m8603734944#2181"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJSON.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m
+s335107542.115240
+e335107542.155786
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m
+lSLF07#2@87"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m335107542#335107542#0(0"0(0#0#79"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m8601256896#2189"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonBase.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m
+s335107542.125695
+e335107546.000949
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m
+lSLF07#2@89"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m335107542#335107546#0(0"0(0#0#81"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m8603079264#2193"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonParser.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m
+s335107542.155869
+e335107542.270046
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m
+lSLF07#2@89"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m335107542#335107542#0(0"0(0#0#81"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m8602622752#2193"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m
+s335107542.411807
+e335107542.451422
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m
+o/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m:22:32: warning: Potential leak of an object allocated on line 22 and stored into 'nav'
+o         UINavigationController *nav = [[UINavigationController alloc] init];
+o                                       ^
+o1 warning generated.
+lSLF07#2@93"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m335107542#335107542#0(313"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m:22:32: warning: Potential leak of an object allocated on line 22 and stored into 'nav'         UINavigationController *nav = [[UINavigationController alloc] init];                                       ^1 warning generated.1(0@70"Potential leak of an object allocated on line 22 and stored into 'nav'335107542#18446744073709551615#0#5(17@0"335107542#18446744073709551615#0#0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#0"0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#1(3@6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#21#5#21#5#6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#2#22#2#17@0"335107542#18446744073709551615#0#0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#0"0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#1(3@6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#2#22#2#6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#32#22#68#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)335107542#18446744073709551615#0#0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#32#0#0#0"1(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#32#22#68#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"335107542#18446744073709551615#0#0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#0"0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#0#0#0#0#1(3@6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#22#32#22#68#6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#27#5#27#5#21@135"Object allocated on line 22 and stored into 'nav' is no longer referenced after this point and has a retain count of +1 (object leaked)335107542#18446744073709551615#0#0(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#27#5#0#0#0"1(6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#27#5#27#5#135"Object allocated on line 22 and stored into 'nav' is no longer referenced after this point and has a retain count of +1 (object leaked)6@85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m309414299#27#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m8606268128#2206"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/VocabulousAppDelegate.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m
+s335107542.331818
+e335107542.372643
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m
+lSLF07#2@99"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m335107542#335107542#0(0"0(0#0#91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m8608498560#2218"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/WordListTableViewController.plist0#
+
+CAnalyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m
+s335107541.757538
+e335107542.034973
+r1
+xAnalyze
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m
+lSLF07#2@76"Analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m335107541#335107542#0(0"0(0#0#68"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m8609050848#2172"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch --analyze /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335107539#335107539#0(0"0(0#1#0"8606403104#0"0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/DefinitionViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.517929
+e335107541.599640
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/DefinitionViewController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m335107541#335107541#0(0"0(0#0#88"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m8604319328#2203"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/DefinitionViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/DefinitionViewController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.147743
+e335107541.216598
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m335107541#335107541#0(0"0(0#0#85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m8606404096#2189"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/FlickrFetcher.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/FlickrFetcher.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.173148
+e335107541.244646
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m335107541#335107541#0(0"0(0#0#84"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m8602972288#2190"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSObject+SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.216706
+e335107541.277269
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m335107541#335107541#0(0"0(0#0#84"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m8609422944#2190"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/NSString+SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.597573
+e335107541.679344
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoTableViewController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m335107541#335107541#0(0"0(0#0#96"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m8603374368#2211"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoTableViewController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.599712
+e335107541.673775
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoViewController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m335107541#335107541#0(0"0(0#0#91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m8603168736#2201"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PhotoViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PhotoViewController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.094184
+e335107541.173003
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m335107541#335107541#0(0"0(0#0#89"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m8604355488#2197"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/PlacesAppDelegate.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/PlacesAppDelegate.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentPhoto.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.679436
+e335107541.757458
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentPhoto.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m335107541#335107541#0(0"0(0#0#83"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m8601205248#2185"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentPhoto.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentPhoto.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentlyViewedPhotoController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.673870
+e335107541.791953
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentlyViewedPhotoController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m335107541#335107541#0(0"0(0#0#101"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m8602899488#2221"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/RecentlyViewedPhotoController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/RecentlyViewedPhotoController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.244739
+e335107541.319574
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m335107541#335107541#0(0"0(0#0#75"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m8605997664#2172"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJSON.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.277356
+e335107541.339731
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m335107541#335107541#0(0"0(0#0#79"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m8603122080#2180"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonBase.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.319734
+e335107541.442058
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m335107541#335107541#0(0"0(0#0#81"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m8600854368#2184"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonParser.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.339819
+e335107541.440941
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m335107541#335107541#0(0"0(0#0#81"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m8604548480#2184"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/JSON/SBJsonWriter.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.441029
+e335107541.517837
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m335107541#335107541#0(0"0(0#0#100"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m8608218208#2219"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Classes/TopPlacesTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/TopPlacesTableViewController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/VocabulousAppDelegate.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.522898
+e335107541.597478
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/VocabulousAppDelegate.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m335107541#335107541#0(0"0(0#0#85"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m8604055584#2197"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/VocabulousAppDelegate.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/VocabulousAppDelegate.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/WordListTableViewController.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.442120
+e335107541.522811
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/WordListTableViewController.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m335107541#335107541#0(0"0(0#0#91"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m8606041792#2209"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/WordListTableViewController.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/WordListTableViewController.o0#
+
+CCompileC build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107541.093113
+e335107541.147645
+r1
+xCompileC
+xbuild/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m335107541#335107541#0(0"0(0#0#68"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m8603246496#2163"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -include /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/main.m -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib
+s335107539.671114
+e335107540.003259
+r1
+xCompileXIB
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib335107539#335107540#0(0"0(0#0#76"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib8609617184#654"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/MainWindow.nib /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/MainWindow.xib --sdk /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Places.app/test.jpg test.jpg
+s335107539.671744
+e335107539.739344
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Places.app/test.jpg
+xtest.jpg
+lSLF07#2@13"Copy test.jpg335107539#335107539#0(0"0(0#0#70"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/test.jpg8609495616#546"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/test.jpg /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app0#
+
+CGenerateDSYMFile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app.dSYM /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places
+s335107542.614787
+e335107542.656205
+r1
+xGenerateDSYMFile
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app.dSYM
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Places.app.dSYM build/Debug-iphonesimulator/Places.app/Places335107542#335107542#0(0"0(0#0#107"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places8602576672#461"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/usr/bin/dsymutil /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app.dSYM0#
+
+CLd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places normal i386
+s335107541.792037
+e335107541.854476
+r1
+xLd
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places
+xnormal
+xi386
+lSLF07#2@112"Link /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places335107541#335107541#0(0"0(0#0#0"8608498176#1026"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -filelist /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Objects-normal/i386/Places.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Places0#
+
+CProcessInfoPlistFile /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Info.plist Places-Info.plist
+s335107539.660929
+e335107539.671040
+r1
+xProcessInfoPlistFile
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Info.plist
+xPlaces-Info.plist
+lSLF07#2@25"Process Places-Info.plist335107539#335107539#0(0"0(0#0#79"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Places-Info.plist8608941024#553"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Places-Info.plist -genpkginfo /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app/Info.plist0#
+
+CProcessPCH /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-eukxukqbkmrorbdbzqdxuwgbrahr/Places_Prefix.pch.pth Places_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch.gch Places_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335107540.003358
+e335107541.093002
+r1
+xProcessPCH
+x/var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch.gch
+xPlaces_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Places_Prefix.pch335107540#335107541#0(0"0(0#0#79"/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Places_Prefix.pch8606169504#2033"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-generated-files.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-own-target-headers.hmap -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-all-target-headers.hmap -iquote /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/Places-project-headers.hmap -F/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/include -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources/i386 -I/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Places.build/Debug-iphonesimulator/Places.build/DerivedSources -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/Places_Prefix.pch -o /var/folders/Gl/GlVbj3POHRq-sJfpEfnzT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Places_Prefix-guozuefzmgezrzetfcozcaxcpzer/Places_Prefix.pch.gch0#
+
+CTouch /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app
+s335107546.001096
+e335107546.003375
+r1
+xTouch
+x/Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app
+lSLF07#2@106"Touch /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app335107546#335107546#0(0"0(0#0#0"8600498336#331"    cd /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places    setenv PATH "/Developer-old/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-old/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nevieandphil/Documents/cs193p_stanford/Projects/Places/build/Debug-iphonesimulator/Places.app0#
+
